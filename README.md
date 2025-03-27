@@ -1,0 +1,2 @@
+# download-GitHub520hosts
+PowerShell下载github520的hosts文件
